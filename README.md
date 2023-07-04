@@ -1,7 +1,13 @@
 
 ## 🚀 About Me
 I'm a PhD student.
-![](https://github.com/cindyujan/cindyujan/blob/main/octocat-1688471681852.png)
+<!-- ![](https://github.com/cindyujan/cindyujan/blob/main/octocat-1688471681852.png) -->
+<img src="https://github.com/cindyujan/cindyujan/blob/main/octocat-1688471681852.png" width="500" height="500">
+
+
+
+
+
 
 <!--![GitHub Follow](https://img.shields.io/github/followers/cindyujan.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/cindyujan?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
