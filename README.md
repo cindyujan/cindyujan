@@ -1,10 +1,20 @@
 
 ## 🚀 About Me
-I'm a PhD student.
+
+Testing 123 ...
+
+Hi! I'm Cindy.
+
+I'm a Ph.D. student at Universiti Teknologi Malaysia.
+
+I'm currently researching on Software-Defined Networking Controller Placement Problem.
+
 <!-- ![](https://github.com/cindyujan/cindyujan/blob/main/octocat-1688471681852.png) -->
 <img src="https://github.com/cindyujan/cindyujan/blob/main/octocat-1688471681852.png" width="500" height="500">
 
+Thanks for visiting!
 
+I hope you enjoyed my GitHub profile README. If you have any questions, feel free to reach out to me here.
 
 
 
