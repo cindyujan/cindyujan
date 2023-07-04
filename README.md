@@ -1,4 +1,4 @@
-
+![](https://github.com/cindyujan/cindyujan/blob/main/octocat-1688471681852.png)
 ## 🚀 About Me
 I'm a student.
 
